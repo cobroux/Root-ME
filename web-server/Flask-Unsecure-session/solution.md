@@ -1,7 +1,7 @@
 Le challenge https://www.root-me.org/fr/Challenges/Web-Serveur/Flask-Unsecure-session
 
 
-Exploit sur flask 
+Exploit sur flask vu ici https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/flask.html
 
 D'abord quésako ? 
 
